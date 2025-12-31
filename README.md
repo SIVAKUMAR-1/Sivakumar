@@ -37,13 +37,13 @@ Total Directors: 5,771
 Content Timeline: 1920 – 2021
 
 📈 Key Dashboard Insights
-1. Content Type Distribution
+  1. Content Type Distribution
 
  Movies: ~81%
 
  TV Shows: ~19%
 
-2. Most Popular Genres
+  2. Most Popular Genres
 
  Drama
 
