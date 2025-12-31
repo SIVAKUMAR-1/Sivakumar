@@ -39,66 +39,66 @@ Content Timeline: 1920 – 2021
 📈 Key Dashboard Insights
 1. Content Type Distribution
 
-Movies: ~81%
+ Movies: ~81%
 
-TV Shows: ~19%
+ TV Shows: ~19%
 
 2. Most Popular Genres
 
-Drama
+ Drama
 
-Comedy
+ Comedy
 
-Documentary
+ Documentary
 
-Animation
+ Animation
 
-Drama & Suspense combinations
+ Drama & Suspense combinations
 
 3. Ratings Analysis
 
-Majority of titles fall under 13+ and 16+ ratings
+ Majority of titles fall under 13+ and 16+ ratings
 
-Relatively limited content in the PG-13 category
+ Relatively limited content in the PG-13 category
 
 4. Release Year Trends
 
-Noticeable growth in content after 2015
+ Noticeable growth in content after 2015
 
-Rapid expansion in titles post-2018, indicating aggressive platform scaling
+ Rapid expansion in titles post-2018, indicating aggressive platform scaling
 
 5. Country-wise Availability
 
-Strong content presence in United States, India, and the United Kingdom
+ Strong content presence in United States, India, and the United Kingdom
 
-Increasing international content distribution across regions
+ Increasing international content distribution across regions 
 
 🛠 Tools & Technologies Used
 
-Data Visualization: Power BI
+ Data Visualization: Power BI
 
-Data Preparation: Excel, CSV
+ Data Preparation: Excel, CSV
 
-Dashboard Design: Dark-themed BI layout
+ Dashboard Design: Dark-themed BI layout
 
-Analytical Techniques:
+ Analytical Techniques:
 
-Data Cleaning & Transformation
+ Data Cleaning & Transformation
 
-Data Modeling
+ Data Modeling
 
-Trend & Time-series Analysis
+ Trend & Time-series Analysis
 
-KPI Definition & Visualization
+ KPI Definition & Visualization
 
 🧠 Skills Demonstrated
 
-Business Intelligence & Reporting
+ Business Intelligence & Reporting
 
-Data Visualization and Dashboard Design
+ Data Visualization and Dashboard Design
 
-Exploratory Data Analysis (EDA)
+ Exploratory Data Analysis (EDA)
 
-KPI and Metrics Development
+ KPI and Metrics Development
 
-Insight-driven Data Storytelling
+ Insight-driven Data Storytelling
