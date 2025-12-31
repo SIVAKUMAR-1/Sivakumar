@@ -1,28 +1,30 @@
 📊 Amazon Prime Video Analysis Dashboard
 
-An interactive Amazon Prime Video Analysis Dashboard built to explore content distribution, genres, ratings, release trends, and geographic availability of movies and TV shows available on Amazon Prime Video.
+An interactive Amazon Prime Video Analysis Dashboard designed to analyze content distribution, genres, ratings, release trends, and geographic availability of movies and TV shows on Amazon Prime Video.
 
-This project demonstrates data analysis, visualization, and storytelling skills using real-world entertainment data.
+This project highlights data analysis, business intelligence, and data storytelling skills using real-world OTT platform data.
 
 🔍 Project Overview
 
-The dashboard provides insights into:
+The dashboard delivers meaningful insights into Amazon Prime Video’s content library, enabling better understanding of platform growth, content strategy, and audience segmentation.
 
-Total titles available on Amazon Prime Video
+Key analysis areas include:
 
-Distribution of Movies vs TV Shows
+Total content volume available on the platform
 
-Genre popularity and trends
+Distribution between Movies and TV Shows
 
-Rating-wise content availability
+Genre-wise popularity and trends
 
-Release year growth patterns
+Rating-based content classification
 
-Country-wise content distribution
+Release year growth and expansion patterns
 
-It helps stakeholders understand content strategy, audience targeting, and platform growth trends.
+Country-wise content availability
 
-📌 Key Metrics
+These insights support data-driven decision-making for media, entertainment, and streaming platforms.
+
+📌 Key Metrics Summary
 
 Total Titles: 9,655
 
@@ -34,14 +36,14 @@ Total Directors: 5,771
 
 Content Timeline: 1920 – 2021
 
-📈 Dashboard Insights
-1. Content Type Split
+📈 Key Dashboard Insights
+1. Content Type Distribution
 
 Movies: ~81%
 
 TV Shows: ~19%
 
-2. Top Genres
+2. Most Popular Genres
 
 Drama
 
@@ -53,100 +55,50 @@ Animation
 
 Drama & Suspense combinations
 
-3. Ratings Distribution
+3. Ratings Analysis
 
-Highest number of titles fall under 13+ and 16+
+Majority of titles fall under 13+ and 16+ ratings
 
-Limited content in PG-13 category
+Relatively limited content in the PG-13 category
 
-4. Release Year Trend
+4. Release Year Trends
 
-Sharp increase in content after 2015
+Noticeable growth in content after 2015
 
-Rapid platform expansion post-2018
+Rapid expansion in titles post-2018, indicating aggressive platform scaling
 
 5. Country-wise Availability
 
-Strong content presence in US, India, UK
+Strong content presence in United States, India, and the United Kingdom
 
-Growing international distribution
+Increasing international content distribution across regions
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies Used
 
 Data Visualization: Power BI
 
-Data Preparation: Excel / CSV
+Data Preparation: Excel, CSV
 
-Dashboard Design: Dark-theme BI layout
+Dashboard Design: Dark-themed BI layout
 
-Analysis Skills:
+Analytical Techniques:
 
-Data Cleaning
+Data Cleaning & Transformation
 
 Data Modeling
 
-Trend Analysis
+Trend & Time-series Analysis
 
-KPI Design
+KPI Definition & Visualization
 
 🧠 Skills Demonstrated
 
-Business Intelligence Reporting
+Business Intelligence & Reporting
 
-Data Visualization & Dashboard Design
+Data Visualization and Dashboard Design
 
 Exploratory Data Analysis (EDA)
 
-KPI & Metrics Development
+KPI and Metrics Development
 
-Insight-driven storytelling
-
-📷 Dashboard Preview
-
-Visuals by Sivakumar K
-
-🚀 How to Use
-
-Clone or download the repository
-
-Open the Power BI file
-
-Interact using filters:
-
-Content Type (Movie / TV Show)
-
-Release Year
-
-Genre
-
-Rating
-
-📌 Use Cases
-
-Portfolio project for Data Analyst / BI Analyst roles
-
-Understanding OTT platform content strategies
-
-Media & Entertainment analytics demonstration
-
-⭐ Feedback & Contributions
-
-If you find this project useful:
-
-⭐ Star the repository
-
-🍴 Fork it
-
-📝 Share feedback or suggestions
-
-If you want, I can also:
-
-Optimize this README for recruiters
-
-Add project KPIs explanation
-
-Write a LinkedIn project post
-
-Create a GitHub portfolio description
-
-Just tell me 👍
+Insight-driven Data Storytelling
